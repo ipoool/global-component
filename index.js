@@ -1,2 +1,2 @@
-export * from "./src/Components/Component1";
-export * from "./src/Components/Component2";
+export * from "./Components/Component1";
+export * from "./Components/Component2";
